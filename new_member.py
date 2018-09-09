@@ -15,4 +15,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run('NDg2NzQwOTMwMDE2MDUxMjIw.DnYXvA.kWRb9VpQ-V9A3lvNbwUv5XOAyfs')
+client.run('NDg2NzQwOTMwMDE2MDUxMjIw.DnYXvA.kWRb9VpQ-V9A3lvNbwUv5XOAyf')
